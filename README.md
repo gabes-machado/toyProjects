@@ -68,7 +68,7 @@ Cada projeto pode utilizar diferentes combinações dessas tecnologias, visando 
 
 Sinta-se à vontade para explorar os projetos e fornecer feedback. Se você tiver alguma dúvida ou sugestão, entre em contato:
 
-- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/gabriellmachado)
+- **LinkedIn:** [GABRIEL MACHADO](https://www.linkedin.com/in/gabriellmachado)
 
 ---
 
